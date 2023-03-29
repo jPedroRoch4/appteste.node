@@ -1,0 +1,26 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "name": "João Pedro Rocha",
+            "email": "jpedro@gmail.com"
+        },
+        {
+            "id": "2",
+            "name": "Maricleusa de Jesus",
+            "email": "marij@gmail.com"
+        }
+    ],
+    "comments": [
+        {
+            "id": "1",
+            "user": "1",
+            "text": "Não to tendendo."
+        },
+        {
+            "id": "2",
+            "user": "2",
+            "text": "Eu tamem naum!"
+        }
+    ]
+}
