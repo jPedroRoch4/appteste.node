@@ -11,15 +11,17 @@
             "email": "marij@gmail.com"
         }
     ],
-    "comments": [
+    "messages": [
         {
             "id": "1",
-            "user": "1",
+            "from": "1",
+            "to": "2",
             "text": "Não to tendendo."
         },
         {
             "id": "2",
-            "user": "2",
+            "from": "2",
+            "to": "1",
             "text": "Eu tamem naum!"
         }
     ]
